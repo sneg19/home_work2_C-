@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mT5t2Rl4T5XuNSo3J8uirLjoqmJocTM0+/RuAvFnwL/jUKiXHDNp46bb6CQSpIWza9KkkIW+UBhr+rja0kn60Q==",
+  "success": true,
+  "projectFilePath": "/home/sneg/Documents/home_work1/home_work1.csproj",
+  "expectedPackageFiles": [
+    "/home/sneg/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
